@@ -2,6 +2,7 @@
     import java.util.Scanner;
     public class UcakBileti {
 
+            //deneme
             public static void main (String[]args){
 
                 double kmucret = 0.10;
