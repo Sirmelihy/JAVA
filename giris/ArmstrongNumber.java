@@ -49,24 +49,5 @@ public class ArmstrongNumber {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
